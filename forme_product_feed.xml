@@ -21,6 +21,7 @@
     <g:size>150 ml</g:size>
     <g:custom_label_0>On sale</g:custom_label_0>
     <g:custom_label_1>Gentle gel cleanser</g:custom_label_1>
+    <g:custom_label_2>Daily Cleanser</g:custom_label_2>
   </item>
   <item>
     <g:id>FRM-002</g:id>
@@ -38,6 +39,7 @@
     <g:size>30 ml</g:size>
     <g:custom_label_0>Full price</g:custom_label_0>
     <g:custom_label_1>Hyaluronic acid</g:custom_label_1>
+    <g:custom_label_2>Hydrating Serum</g:custom_label_2>
   </item>
   <item>
     <g:id>FRM-003</g:id>
@@ -56,6 +58,7 @@
     <g:size>50 ml</g:size>
     <g:custom_label_0>On sale</g:custom_label_0>
     <g:custom_label_1>All-day hydration</g:custom_label_1>
+    <g:custom_label_2>Daily Moisturiser</g:custom_label_2>
   </item>
   <item>
     <g:id>FRM-004</g:id>
@@ -73,6 +76,7 @@
     <g:size>50 ml</g:size>
     <g:custom_label_0>Full price</g:custom_label_0>
     <g:custom_label_1>Overnight repair</g:custom_label_1>
+    <g:custom_label_2>Night Recovery Cream</g:custom_label_2>
   </item>
   <item>
     <g:id>FRM-005</g:id>
@@ -91,6 +95,7 @@
     <g:size>30 ml</g:size>
     <g:custom_label_0>On sale</g:custom_label_0>
     <g:custom_label_1>Brightening</g:custom_label_1>
+    <g:custom_label_2>Vitamin C Serum</g:custom_label_2>
   </item>
   <item>
     <g:id>FRM-006</g:id>
@@ -108,6 +113,7 @@
     <g:size>50 ml</g:size>
     <g:custom_label_0>Full price</g:custom_label_0>
     <g:custom_label_1>Broad-spectrum SPF 50</g:custom_label_1>
+    <g:custom_label_2>SPF 50 Protection</g:custom_label_2>
   </item>
   <item>
     <g:id>FRM-007</g:id>
@@ -126,6 +132,7 @@
     <g:size>100 ml</g:size>
     <g:custom_label_0>On sale</g:custom_label_0>
     <g:custom_label_1>Melts away make-up</g:custom_label_1>
+    <g:custom_label_2>Cleansing Balm</g:custom_label_2>
   </item>
   <item>
     <g:id>FRM-008</g:id>
@@ -143,6 +150,7 @@
     <g:size>150 ml</g:size>
     <g:custom_label_0>Full price</g:custom_label_0>
     <g:custom_label_1>Non-foaming cream</g:custom_label_1>
+    <g:custom_label_2>Cream Cleanser</g:custom_label_2>
   </item>
   <item>
     <g:id>FRM-009</g:id>
@@ -161,6 +169,7 @@
     <g:size>120 ml</g:size>
     <g:custom_label_0>On sale</g:custom_label_0>
     <g:custom_label_1>Gentle enzyme exfoliation</g:custom_label_1>
+    <g:custom_label_2>Exfoliating Cleanser</g:custom_label_2>
   </item>
   <item>
     <g:id>FRM-010</g:id>
@@ -178,6 +187,7 @@
     <g:size>150 ml</g:size>
     <g:custom_label_0>Full price</g:custom_label_0>
     <g:custom_label_1>Rebalances after cleansing</g:custom_label_1>
+    <g:custom_label_2>Balancing Toner</g:custom_label_2>
   </item>
   <item>
     <g:id>FRM-011</g:id>
@@ -196,6 +206,7 @@
     <g:size>100 ml</g:size>
     <g:custom_label_0>On sale</g:custom_label_0>
     <g:custom_label_1>Instant refresh</g:custom_label_1>
+    <g:custom_label_2>Hydrating Mist</g:custom_label_2>
   </item>
   <item>
     <g:id>FRM-012</g:id>
@@ -213,6 +224,7 @@
     <g:size>150 ml</g:size>
     <g:custom_label_0>Full price</g:custom_label_0>
     <g:custom_label_1>5% glycolic acid</g:custom_label_1>
+    <g:custom_label_2>AHA Exfoliating Toner</g:custom_label_2>
   </item>
   <item>
     <g:id>FRM-013</g:id>
@@ -231,6 +243,7 @@
     <g:size>30 ml</g:size>
     <g:custom_label_0>On sale</g:custom_label_0>
     <g:custom_label_1>10% niacinamide</g:custom_label_1>
+    <g:custom_label_2>Niacinamide Serum</g:custom_label_2>
   </item>
   <item>
     <g:id>FRM-014</g:id>
@@ -248,6 +261,7 @@
     <g:size>30 ml</g:size>
     <g:custom_label_0>Full price</g:custom_label_0>
     <g:custom_label_1>0.3% encapsulated retinol</g:custom_label_1>
+    <g:custom_label_2>Retinol Serum</g:custom_label_2>
   </item>
   <item>
     <g:id>FRM-015</g:id>
@@ -266,6 +280,7 @@
     <g:size>30 ml</g:size>
     <g:custom_label_0>On sale</g:custom_label_0>
     <g:custom_label_1>Firming peptides</g:custom_label_1>
+    <g:custom_label_2>Peptide Serum</g:custom_label_2>
   </item>
   <item>
     <g:id>FRM-016</g:id>
@@ -284,6 +299,7 @@
     <g:size>30 ml</g:size>
     <g:custom_label_0>On sale</g:custom_label_0>
     <g:custom_label_1>Squalane + rosehip</g:custom_label_1>
+    <g:custom_label_2>Face Oil</g:custom_label_2>
   </item>
   <item>
     <g:id>FRM-017</g:id>
@@ -301,6 +317,7 @@
     <g:size>50 ml</g:size>
     <g:custom_label_0>Full price</g:custom_label_0>
     <g:custom_label_1>Lightweight gel cream</g:custom_label_1>
+    <g:custom_label_2>Gel Moisturiser</g:custom_label_2>
   </item>
   <item>
     <g:id>FRM-018</g:id>
@@ -319,6 +336,7 @@
     <g:size>50 ml</g:size>
     <g:custom_label_0>On sale</g:custom_label_0>
     <g:custom_label_1>Ceramide repair</g:custom_label_1>
+    <g:custom_label_2>Barrier Cream</g:custom_label_2>
   </item>
   <item>
     <g:id>FRM-019</g:id>
@@ -336,6 +354,7 @@
     <g:size>15 ml</g:size>
     <g:custom_label_0>Full price</g:custom_label_0>
     <g:custom_label_1>Smooths and depuffs</g:custom_label_1>
+    <g:custom_label_2>Eye Cream</g:custom_label_2>
   </item>
   <item>
     <g:id>FRM-020</g:id>
@@ -354,6 +373,7 @@
     <g:size>75 ml</g:size>
     <g:custom_label_0>On sale</g:custom_label_0>
     <g:custom_label_1>Purifying kaolin clay</g:custom_label_1>
+    <g:custom_label_2>Clay Mask</g:custom_label_2>
   </item>
   <item>
     <g:id>FRM-021</g:id>
@@ -371,6 +391,7 @@
     <g:size>75 ml</g:size>
     <g:custom_label_0>Full price</g:custom_label_0>
     <g:custom_label_1>Sleeping mask</g:custom_label_1>
+    <g:custom_label_2>Overnight Mask</g:custom_label_2>
   </item>
   <item>
     <g:id>FRM-022</g:id>
@@ -389,6 +410,7 @@
     <g:size>50 ml</g:size>
     <g:custom_label_0>On sale</g:custom_label_0>
     <g:custom_label_1>Lightweight fluid</g:custom_label_1>
+    <g:custom_label_2>SPF 30 Daily Fluid</g:custom_label_2>
   </item>
   <item>
     <g:id>FRM-023</g:id>
@@ -406,6 +428,7 @@
     <g:size>40 ml</g:size>
     <g:custom_label_0>Full price</g:custom_label_0>
     <g:custom_label_1>Sheer tint</g:custom_label_1>
+    <g:custom_label_2>Tinted SPF 30</g:custom_label_2>
   </item>
   <item>
     <g:id>FRM-024</g:id>
@@ -423,6 +446,7 @@
     <g:size>15 ml</g:size>
     <g:custom_label_0>Full price</g:custom_label_0>
     <g:custom_label_1>Nourishing lip balm</g:custom_label_1>
+    <g:custom_label_2>Lip Balm</g:custom_label_2>
   </item>
   <item>
     <g:id>FRM-025</g:id>
@@ -441,6 +465,7 @@
     <g:size>250 ml</g:size>
     <g:custom_label_0>On sale</g:custom_label_0>
     <g:custom_label_1>Daily body hydration</g:custom_label_1>
+    <g:custom_label_2>Body Lotion</g:custom_label_2>
   </item>
 </channel>
 </rss>
