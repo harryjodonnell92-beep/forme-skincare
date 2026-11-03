@@ -41,6 +41,7 @@
     <g:custom_label_0>Full price</g:custom_label_0>
     <g:custom_label_1>Hyaluronic acid</g:custom_label_1>
     <g:custom_label_2>Hydrating Serum</g:custom_label_2>
+    <g:custom_label_4>Everyday essential</g:custom_label_4>
   </item>
   <item>
     <g:id>FRM-003</g:id>
@@ -79,6 +80,7 @@
     <g:custom_label_0>Full price</g:custom_label_0>
     <g:custom_label_1>Overnight repair</g:custom_label_1>
     <g:custom_label_2>Night Recovery Cream</g:custom_label_2>
+    <g:custom_label_4>Everyday essential</g:custom_label_4>
   </item>
   <item>
     <g:id>FRM-005</g:id>
@@ -117,6 +119,7 @@
     <g:custom_label_0>Full price</g:custom_label_0>
     <g:custom_label_1>Broad-spectrum SPF 50</g:custom_label_1>
     <g:custom_label_2>SPF 50 Protection</g:custom_label_2>
+    <g:custom_label_4>Everyday essential</g:custom_label_4>
   </item>
   <item>
     <g:id>FRM-007</g:id>
@@ -155,6 +158,7 @@
     <g:custom_label_0>Full price</g:custom_label_0>
     <g:custom_label_1>Non-foaming cream</g:custom_label_1>
     <g:custom_label_2>Cream Cleanser</g:custom_label_2>
+    <g:custom_label_4>Everyday essential</g:custom_label_4>
   </item>
   <item>
     <g:id>FRM-009</g:id>
@@ -193,6 +197,7 @@
     <g:custom_label_0>Full price</g:custom_label_0>
     <g:custom_label_1>Rebalances after cleansing</g:custom_label_1>
     <g:custom_label_2>Balancing Toner</g:custom_label_2>
+    <g:custom_label_4>Everyday essential</g:custom_label_4>
   </item>
   <item>
     <g:id>FRM-011</g:id>
@@ -231,6 +236,7 @@
     <g:custom_label_0>Full price</g:custom_label_0>
     <g:custom_label_1>5% glycolic acid</g:custom_label_1>
     <g:custom_label_2>AHA Exfoliating Toner</g:custom_label_2>
+    <g:custom_label_4>Everyday essential</g:custom_label_4>
   </item>
   <item>
     <g:id>FRM-013</g:id>
@@ -269,6 +275,7 @@
     <g:custom_label_0>Full price</g:custom_label_0>
     <g:custom_label_1>0.3% encapsulated retinol</g:custom_label_1>
     <g:custom_label_2>Retinol Serum</g:custom_label_2>
+    <g:custom_label_4>Everyday essential</g:custom_label_4>
   </item>
   <item>
     <g:id>FRM-015</g:id>
@@ -327,6 +334,7 @@
     <g:custom_label_0>Full price</g:custom_label_0>
     <g:custom_label_1>Lightweight gel cream</g:custom_label_1>
     <g:custom_label_2>Gel Moisturiser</g:custom_label_2>
+    <g:custom_label_4>Everyday essential</g:custom_label_4>
   </item>
   <item>
     <g:id>FRM-018</g:id>
@@ -365,6 +373,7 @@
     <g:custom_label_0>Full price</g:custom_label_0>
     <g:custom_label_1>Smooths and depuffs</g:custom_label_1>
     <g:custom_label_2>Eye Cream</g:custom_label_2>
+    <g:custom_label_4>Everyday essential</g:custom_label_4>
   </item>
   <item>
     <g:id>FRM-020</g:id>
@@ -403,6 +412,7 @@
     <g:custom_label_0>Full price</g:custom_label_0>
     <g:custom_label_1>Sleeping mask</g:custom_label_1>
     <g:custom_label_2>Overnight Mask</g:custom_label_2>
+    <g:custom_label_4>Everyday essential</g:custom_label_4>
   </item>
   <item>
     <g:id>FRM-022</g:id>
@@ -441,6 +451,7 @@
     <g:custom_label_0>Full price</g:custom_label_0>
     <g:custom_label_1>Sheer tint</g:custom_label_1>
     <g:custom_label_2>Tinted SPF 30</g:custom_label_2>
+    <g:custom_label_4>Everyday essential</g:custom_label_4>
   </item>
   <item>
     <g:id>FRM-024</g:id>
@@ -459,6 +470,7 @@
     <g:custom_label_0>Full price</g:custom_label_0>
     <g:custom_label_1>Nourishing lip balm</g:custom_label_1>
     <g:custom_label_2>Lip Balm</g:custom_label_2>
+    <g:custom_label_4>Everyday essential</g:custom_label_4>
   </item>
   <item>
     <g:id>FRM-025</g:id>
