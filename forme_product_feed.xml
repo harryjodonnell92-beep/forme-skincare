@@ -22,6 +22,7 @@
     <g:custom_label_0>On sale</g:custom_label_0>
     <g:custom_label_1>Gentle gel cleanser</g:custom_label_1>
     <g:custom_label_2>Daily Cleanser</g:custom_label_2>
+    <g:custom_label_3>Save 21%</g:custom_label_3>
   </item>
   <item>
     <g:id>FRM-002</g:id>
@@ -59,6 +60,7 @@
     <g:custom_label_0>On sale</g:custom_label_0>
     <g:custom_label_1>All-day hydration</g:custom_label_1>
     <g:custom_label_2>Daily Moisturiser</g:custom_label_2>
+    <g:custom_label_3>Save 19%</g:custom_label_3>
   </item>
   <item>
     <g:id>FRM-004</g:id>
@@ -96,6 +98,7 @@
     <g:custom_label_0>On sale</g:custom_label_0>
     <g:custom_label_1>Brightening</g:custom_label_1>
     <g:custom_label_2>Vitamin C Serum</g:custom_label_2>
+    <g:custom_label_3>Save 19%</g:custom_label_3>
   </item>
   <item>
     <g:id>FRM-006</g:id>
@@ -133,6 +136,7 @@
     <g:custom_label_0>On sale</g:custom_label_0>
     <g:custom_label_1>Melts away make-up</g:custom_label_1>
     <g:custom_label_2>Cleansing Balm</g:custom_label_2>
+    <g:custom_label_3>Save 20%</g:custom_label_3>
   </item>
   <item>
     <g:id>FRM-008</g:id>
@@ -170,6 +174,7 @@
     <g:custom_label_0>On sale</g:custom_label_0>
     <g:custom_label_1>Gentle enzyme exfoliation</g:custom_label_1>
     <g:custom_label_2>Exfoliating Cleanser</g:custom_label_2>
+    <g:custom_label_3>Save 19%</g:custom_label_3>
   </item>
   <item>
     <g:id>FRM-010</g:id>
@@ -207,6 +212,7 @@
     <g:custom_label_0>On sale</g:custom_label_0>
     <g:custom_label_1>Instant refresh</g:custom_label_1>
     <g:custom_label_2>Hydrating Mist</g:custom_label_2>
+    <g:custom_label_3>Save 20%</g:custom_label_3>
   </item>
   <item>
     <g:id>FRM-012</g:id>
@@ -244,6 +250,7 @@
     <g:custom_label_0>On sale</g:custom_label_0>
     <g:custom_label_1>10% niacinamide</g:custom_label_1>
     <g:custom_label_2>Niacinamide Serum</g:custom_label_2>
+    <g:custom_label_3>Save 20%</g:custom_label_3>
   </item>
   <item>
     <g:id>FRM-014</g:id>
@@ -281,6 +288,7 @@
     <g:custom_label_0>On sale</g:custom_label_0>
     <g:custom_label_1>Firming peptides</g:custom_label_1>
     <g:custom_label_2>Peptide Serum</g:custom_label_2>
+    <g:custom_label_3>Save 19%</g:custom_label_3>
   </item>
   <item>
     <g:id>FRM-016</g:id>
@@ -300,6 +308,7 @@
     <g:custom_label_0>On sale</g:custom_label_0>
     <g:custom_label_1>Squalane + rosehip</g:custom_label_1>
     <g:custom_label_2>Face Oil</g:custom_label_2>
+    <g:custom_label_3>Save 20%</g:custom_label_3>
   </item>
   <item>
     <g:id>FRM-017</g:id>
@@ -337,6 +346,7 @@
     <g:custom_label_0>On sale</g:custom_label_0>
     <g:custom_label_1>Ceramide repair</g:custom_label_1>
     <g:custom_label_2>Barrier Cream</g:custom_label_2>
+    <g:custom_label_3>Save 21%</g:custom_label_3>
   </item>
   <item>
     <g:id>FRM-019</g:id>
@@ -374,6 +384,7 @@
     <g:custom_label_0>On sale</g:custom_label_0>
     <g:custom_label_1>Purifying kaolin clay</g:custom_label_1>
     <g:custom_label_2>Clay Mask</g:custom_label_2>
+    <g:custom_label_3>Save 23%</g:custom_label_3>
   </item>
   <item>
     <g:id>FRM-021</g:id>
@@ -411,6 +422,7 @@
     <g:custom_label_0>On sale</g:custom_label_0>
     <g:custom_label_1>Lightweight fluid</g:custom_label_1>
     <g:custom_label_2>SPF 30 Daily Fluid</g:custom_label_2>
+    <g:custom_label_3>Save 20%</g:custom_label_3>
   </item>
   <item>
     <g:id>FRM-023</g:id>
@@ -466,6 +478,7 @@
     <g:custom_label_0>On sale</g:custom_label_0>
     <g:custom_label_1>Daily body hydration</g:custom_label_1>
     <g:custom_label_2>Body Lotion</g:custom_label_2>
+    <g:custom_label_3>Save 21%</g:custom_label_3>
   </item>
 </channel>
 </rss>
